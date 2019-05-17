@@ -3,4 +3,4 @@ ViewPagerChildFragments
 
 Shows the usage of child fragments in a ViewPager
 
-![alt tag](http://i.imgur.com/QWfLAW2.png)
+![alt tag](https://i.imgur.com/n00PXrZ.png)
